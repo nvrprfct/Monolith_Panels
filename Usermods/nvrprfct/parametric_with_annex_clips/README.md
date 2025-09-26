@@ -2,16 +2,16 @@
 a few files for adding annex clips to the monolith panels. 
 
 ## files:
-### monolithStock_annex
-- **monolithStock_annexCorner.step**
-- **monolithStock_annexKey.3mf**
+### STLs/monolithStock_annex
+- **STLs/monolithStock_annexCorner.step**
+- **STLs/monolithStock_annexKey.3mf**
 
 premade files for the stock monolith panel dimensions. you'll still need everything from the original monolith panels, except the corner body. 
 
 print 2x keys for each corner.
 
-### monolith_annex_mashup_variable_height
-- **monolith_annex_mashup_variable_height.f3d**
+### CAD/monolith_annex_mashup_variable_height
+- **CAD/monolith_annex_mashup_variable_height.f3d**
 - **[key_asymmetric_10.STEP](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges/panel_clips_and_corners/key/CAD)** (or another size)
 
 the full f3d file with parametric history, so that you can custom make your own panel thickness, foam thickness, etc. 
