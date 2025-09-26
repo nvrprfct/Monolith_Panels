@@ -23,6 +23,6 @@ for the key to be the right size, you'll need to download the key from the annex
 be warned, I haven't updated the file in a minute, and it might have funny behaviour on large or small heights. I've been meaning to get around to this mod and clean it up, but life happens. 
 
 ### credits
-[monolith panels by cloakedwayne](https://github.com/nvrprfct/Monolith_Panels)
+[monolith panels by cloakedwayne](https://github.com/Monolith3D/Monolith_Panels)
 
 [annex clips by annex engineering](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges)
